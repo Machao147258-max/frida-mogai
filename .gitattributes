@@ -1,0 +1,2 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+nosuke-server filter=lfs diff=lfs merge=lfs -text
